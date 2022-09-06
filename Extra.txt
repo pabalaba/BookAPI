@@ -1,0 +1,3 @@
+Ho aggiunto:
+ - Tutti i metodi sono asincroni
+ - Paging su author e publishinghouse 
